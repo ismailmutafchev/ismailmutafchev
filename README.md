@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imutafchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imutafchev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismail mutafchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail mutafchev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismail-mutafchev-726a84165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail mutafchev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21197562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21197562" height="30" width="40" /></a>
 <a href="https://fb.com/ismail mutafchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismail mutafchev" height="30" width="40" /></a>
 <a href="https://instagram.com/i.mutafchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.mutafchev" height="30" width="40" /></a>
