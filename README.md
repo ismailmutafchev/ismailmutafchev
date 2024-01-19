@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Isma</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate full-stack developer based in London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailmutafchev&label=Profile%20views&color=0e75b6&style=flat" alt="ismailmutafchev" /> </p>
